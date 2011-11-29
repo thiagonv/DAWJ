@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>AppWebCirculo</h1>
-<p>Informe o raio do circulo e clique em <b>Enviar</b>.</p>
+<p>Informe o raio do circulo e clique em <b>Enviar agora</b>.</p>
 <form action="resultado.jsp" method="post">
 <table>
 	<tr>
